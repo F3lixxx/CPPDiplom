@@ -159,7 +159,6 @@ void HttpConnection::createResponsePost()
 		// TODO: Fetch your own search results here
 
 		std::vector<std::string> searchResult = {
-			"https://en.wikipedia.org/wiki/Main_Page",
 			"https://en.wikipedia.org/wiki/Wikipedia",
 		};
 
